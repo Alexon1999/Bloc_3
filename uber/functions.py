@@ -209,7 +209,7 @@ def calculate_centroid(group):
     """
     Calculates the centroid of a group of latitude and longitude values.
 
-    It uses the centroid formula for spherical coordinates, which takes into account the curvature of the earth.
+    The centroid formula takes into account the geographical location of each point and calculates the weighted average of the latitude and longitude values, which gives a more accurate representation.
 
     The formula for the centroid of a set of points in spherical coordinates is: 
         lat = atan2(sum(sin(lat_i)), sum(cos(lat_i)))
