@@ -1,4 +1,4 @@
-# <p align="center">Supervized and Unsupervized Machine Learning</p>
+# <p align="center">Supervised and Unsupervised Machine Learning</p>
 
 <p align="center"> <img src="ml_image.jpg" width="250"> </p>
 
